@@ -23,7 +23,7 @@
 3 | zhihu_html2pdf.py | 将获取的html文件保存成PDF
 — | 各html和pdf文件 | 输出样例
 
-[本知乎账户](https://www.zhihu.com/people/mengxiangxi)已经手动删除全部历史回答，但可见仍有大量信息保存在知乎服务器上或无法删除。
+测试数据来自[本知乎账户](https://www.zhihu.com/people/mengxiangxi)，测试完成后已经手动删除全部历史回答，但可见仍有大量信息保存在知乎服务器上或无法删除。
 
 ## 已知问题
 - PDF不支持部分多媒体文件的备份，如动图等。
